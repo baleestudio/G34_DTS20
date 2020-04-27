@@ -140,6 +140,11 @@ header {
   color: black;
 }
 
+.lesson-icon img {
+  width:180px;
+  height:180px;
+}
+
 .text-contents {
   width: 80%;
   display: inline-block;
